@@ -486,7 +486,7 @@ export default function Home() {
                   "/sertif3.png",
                   "/sertif4.jpg",
                   "/sertif5.jpg",
-                  "sertif6.jpg",
+                  "/sertif6.jpg",
                 ].map((src, index) => (
                   <ItemAnimation key={index} delay={index * 0.1}>
                     <GradientCard>
