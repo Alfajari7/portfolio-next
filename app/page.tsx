@@ -484,7 +484,7 @@ export default function Home() {
                   "/sertif 1.png",
                   "/sertif 2.jpg",
                   "/sertif 3.png",
-                  "/sertif 4.jpg",
+                  "/sertif4.jpg",
                   "/sertif 5.jpg",
                   "/sertif 6.jpg",
                 ].map((src, index) => (
