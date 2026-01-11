@@ -481,12 +481,12 @@ export default function Home() {
 
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {[
-                  "/sertif 1.png",
-                  "/sertif 2.jpg",
-                  "/sertif 3.png",
+                  "/sertif1.png",
+                  "/sertif2.jpg",
+                  "/sertif3.png",
                   "/sertif4.jpg",
-                  "/sertif 5.jpg",
-                  "/sertif 6.jpg",
+                  "/sertif5.jpg",
+                  "sertif6.jpg",
                 ].map((src, index) => (
                   <ItemAnimation key={index} delay={index * 0.1}>
                     <GradientCard>
